@@ -5,7 +5,7 @@
     color: khaki;
     text-align: center;
     background-color: white;
-    background-image: url(pattern.jpeg);
+    background-image: url(./pattern.jpeg);
     background-position: center center, center top;
     background-repeat: repeat, no-repeat;
 
